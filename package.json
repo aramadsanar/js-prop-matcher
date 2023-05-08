@@ -1,0 +1,22 @@
+{
+  "name": "js-prop-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '__tests__/propMatcher.mocha.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.10"
+  },
+   "devDependencies": {
+    "chai": "^4.2.0",
+    "deep-equal-in-any-order": "^1.0.28",
+    "it-each": "^0.4.0",
+    "mocha": "^8.2.1",
+    "sinon-chai": "^3.5.0"
+   }
+}
